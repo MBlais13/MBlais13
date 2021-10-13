@@ -3,7 +3,6 @@
 [![Discord Badge](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=Discord&logoColor=white&link=http://discord.gg/Hejb485)](http://discord.gg/Hejb485) 
 
 - 🎯 Portfolio website: [Portfolio](https://mblais-portfolio.netlify.app)
-- ⚡ Fun fact: The first rule of programming- if it works, don’t touch it.
 
 💻 **Things I love**
 - Game Development <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
