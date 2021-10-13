@@ -1,6 +1,6 @@
 ### Hi there, I am Michael Blais👋
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/MBlais13)](https://twitter.com/MBlais13)
-[![Discord Badge](https://img.shields.io/badge/-Discord-c14438?style=flat-square&logo=Discord&logoColor=white&link=mailto:http://discord.gg/Hejb485)](mailto:http://discord.gg/Hejb485) 
+[![Discord Badge](https://img.shields.io/badge/-Discord-c14438?style=flat-square&logo=Discord&logoColor=white&link=http://discord.gg/Hejb485)](http://discord.gg/Hejb485) 
 
 - 🎯 Portfolio website: [Portfolio](https://mblais-portfolio.netlify.app)
 - ⚡ Fun fact: The first rule of programming- if it works, don’t touch it.
