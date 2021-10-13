@@ -1,7 +1,3 @@
-<img align="right" src="https://github.com/rajaprerak/rajaprerak/blob/master/developer.gif" alt="Coder GIF" width="420" height="330">
-
-
-
 ### Hi there, I am Michael Blais👋
 [![Twitter Badge](https://img.shields.io/badge/-michaelblais-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/MBlais13)](https://twitter.com/MBlais13)
 [![Gmail Badge](https://img.shields.io/badge/-michaelblais13@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:michaelblais13@gmail.com)](mailto:michaelblais13@gmail.com) 
