@@ -5,7 +5,7 @@
 - 🎯 Portfolio website: [Portfolio](https://mblais-portfolio.netlify.app)
 - ⚡ Fun fact: The first rule of programming- if it works, don’t touch it.
 
-💻 **Things I love**
+💻 __**Things I love**__
 - Game Development <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 - Technology 💻
 - Python ✍️
