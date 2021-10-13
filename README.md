@@ -1,9 +1,9 @@
 ### Hi there, I am Michael Blais👋
-[![Twitter Badge](https://img.shields.io/badge/-michaelblais-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/MBlais13)](https://twitter.com/MBlais13)
-[![Gmail Badge](https://img.shields.io/badge/-michaelblais13@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:michaelblais13@gmail.com)](mailto:michaelblais13@gmail.com) 
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/MBlais13)](https://twitter.com/MBlais13)
+[![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:michaelblais13@gmail.com)](mailto:michaelblais13@gmail.com) 
 
 - 🎯 Portfolio website: [Portfolio](https://mblais-portfolio.netlify.app)
-- ⚡ Fun fact: The first rule of programming- if it works, don’t touch it.🤓
+- ⚡ Fun fact: The first rule of programming- if it works, don’t touch it.
 
 💻 **Things I love**
 - Game Development <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
@@ -21,3 +21,4 @@
 <div align="center">
     <h3 align="center">Show some ❤️ by starring some of the repositories!</h3>
 </div>
+
