@@ -5,16 +5,16 @@
 - 🎯 Portfolio website: [Portfolio](https://mblais-portfolio.netlify.app)
 - ⚡ Fun fact: The first rule of programming- if it works, don’t touch it.
 
-💻 __**Things I love**__
+💻 **Things I love**
 - Game Development <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 - Technology 💻
-- Python ✍️
+- Coding ⌨
 
     <a href="https://mblais-portfolio.netlify.app" title="Go to Source">
       <img align="right" width=420 height="auto" src="https://github-readme-stats.vercel.app/api?username=mblais13&show_icons=true&theme=github_dark&border_color=61dafb&hide_border=true&include_all_commits=true"/>
     </a>
     
-🛠**Tech Stack**
+🛠 **Tech Stack**
 
 
 
