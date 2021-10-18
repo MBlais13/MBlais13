@@ -2,6 +2,9 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/MBlais13)](https://twitter.com/MBlais13)
 [![Discord Badge](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=Discord&logoColor=white&link=http://discord.gg/Hejb485)](http://discord.gg/Hejb485) 
 
+<div align="center">
+    <p href(https://mblais-portfolio.netlify.app) align="center">🎯 Portfolio website:</p>
+</div>
 - 🎯 Portfolio website: [Portfolio](https://mblais-portfolio.netlify.app)
 
 💻 **Things I love**
