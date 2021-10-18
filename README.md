@@ -1,7 +1,6 @@
 ### Hi there, I am Michael Blais👋
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/MBlais13)](https://twitter.com/MBlais13)
 [![Discord Badge](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=Discord&logoColor=white&link=http://discord.gg/Hejb485)](http://discord.gg/Hejb485) 
-[![Support Server](https://img.shields.io/discord/591914197219016707.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/Hejb485)
 
 - 🎯 Portfolio website: [Portfolio](https://mblais-portfolio.netlify.app)
 
@@ -9,6 +8,7 @@
 - Game Development <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 - Technology 💻
 - Coding ⌨
+- 3d modeling 🖌
 
     <a href="https://mblais-portfolio.netlify.app" title="Go to Source">
       <img align="right" width=420 height="auto" src="https://github-readme-stats.vercel.app/api?username=mblais13&show_icons=true&theme=github_dark&border_color=61dafb&hide_border=true&include_all_commits=true"/>
