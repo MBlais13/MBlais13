@@ -15,15 +15,14 @@
     </a>
     
 🛠 **Tech Stack**
-- Blender
-- Rblx Studio
-- Unreal Engine
-- Photoshop
-- Visual Studio
-- VS code
+- Blender   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/2503px-Blender_logo_no_text.svg.png" width="30"> 
+- Rblx Studio   <img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/ROBLOX_Studio_icon.png" width="30"> 
+- Unreal Engine <img src="https://w7.pngwing.com/pngs/453/640/png-transparent-html-computer-icons-white-computer-software-unreal-engine-4-logo-angle-white-rectangle-thumbnail.png" width="30"> 
+- Photoshop <img src="https://logos-world.net/wp-content/uploads/2020/11/Adobe-Photoshop-Logo.png" width="30"> 
+- Visual Studio <img src="https://1000logos.net/wp-content/uploads/2020/08/Visual-Studio-Logo.png" width="30"> 
 
 
 <div align="center">
-    <h3 align="center">Show some ❤️ by starring some of the repositories!</h3>
+    <h3 align="center">Show some ❤️ by starring some of my repositories!</h3>
 </div>
 
