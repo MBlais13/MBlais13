@@ -15,7 +15,12 @@
     </a>
     
 🛠 **Tech Stack**
-
+- Blender
+- Rblx Studio
+- Unreal Engine
+- Photoshop
+- Visual Studio
+- VS code
 
 
 <div align="center">
