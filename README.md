@@ -3,6 +3,7 @@
 [![Discord Badge](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=Discord&logoColor=white&link=http://discord.gg/Hejb485)](http://discord.gg/Hejb485) 
 
 - 🎯 Portfolio website: [Portfolio](https://mblais-portfolio.netlify.app)
+- ✉ Contact me [Here](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=+contact.mblais@gmail.com)
 
 💻 **Things I love**
 - Game Development <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
