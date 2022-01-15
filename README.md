@@ -11,10 +11,9 @@
 - Coding ⌨
 - 3d modeling 🖌
 
-
-    <a href="https://mblais-portfolio.netlify.app" title="Go to Source">
-      <img align="right" width=420 height="auto" src="https://github-readme-stats.vercel.app/api?username=mblais13&show_icons=true&theme=github_dark&border_color=61dafb&hide_border=true&include_all_commits=true"/>
-    </a>
+<a href="https://mblais-portfolio.netlify.app" title="Go to Source">
+    <img width=380 height="auto" src="https://github-readme-stats.vercel.app/api?username=mblais13&show_icons=true&theme=github_dark&border_color=61dafb&hide_border=true&include_all_commits=true"/>
+</a>
 
 🛠 **Tech Stack**
 - Blender   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/2503px-Blender_logo_no_text.svg.png" width="20"> 
@@ -27,4 +26,3 @@
 <div align="center">
     <h3 align="center">Show some ❤️ by starring some of my repositories!</h3>
 </div>
-
