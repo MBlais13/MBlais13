@@ -18,7 +18,7 @@
 - Blender   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/2503px-Blender_logo_no_text.svg.png" width="20"> 
 - Rblx Studio   <img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/ROBLOX_Studio_icon.png" width="20"> 
 - Unreal Engine <img src="https://pngimage.net/wp-content/uploads/2018/06/unreal-engine-4-png-1.png" width="20"> 
-- Substance Painter <img src="https://i.imgur.com/5nMCtin.png" width="30"> 
+- Substance Painter <img src="https://i.imgur.com/VUkodDk.png" width="30"> 
 - Visual Studio <img src="https://1000logos.net/wp-content/uploads/2020/08/Visual-Studio-Logo.png" width="30"> 
 
 
