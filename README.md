@@ -22,7 +22,7 @@
 - Visual Studio <img src="https://1000logos.net/wp-content/uploads/2020/08/Visual-Studio-Logo.png" width="30"> 
 
 
-| <a href="https://mblais-portfolio.netlify.app"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mblais13&show_icons=true&include_all_commits=true&theme=github_dark&border_color=61dafb&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://mblais-portfolio.netlify.app"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mblais13&layout=compact&theme=github_dark&border_color=61dafb&hide_border=true" /></a> |
+| <a href="https://mblais-portfolio.netlify.app"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mblais13&show_icons=true&include_all_commits=true&theme=github_dark&border_color=61dafb&hide_border=true" alt="MBlais's github stats" /></a> | <a href="https://mblais-portfolio.netlify.app"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mblais13&layout=compact&theme=github_dark&border_color=61dafb&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 <div align="center">
