@@ -2,7 +2,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/MBlais13)](https://twitter.com/MBlais13)
 [![Discord Badge](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=Discord&logoColor=white&link=http://discord.gg/Hejb485)](http://discord.gg/Hejb485) 
 
-- 🎯 Portfolio website: [Portfolio](https://mblais-portfolio.netlify.app)
+- 🎯 Portfolio website: [Portfolio](https://mblais.dev/)
 - ✉ Contact me [Here](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=+contact.mblais@gmail.com)
 
 # 
