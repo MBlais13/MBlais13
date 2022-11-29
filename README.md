@@ -1,29 +1,38 @@
-## Hi there, I'm Michael Blais👋
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/MBlais13)](https://twitter.com/MBlais13)
-[![Discord Badge](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=Discord&logoColor=white&link=http://discord.gg/Hejb485)](http://discord.gg/Hejb485) 
-
-- 🎯 Portfolio website: [Portfolio](https://mblais.dev/)
-- ✉ Contact me [Here](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=+contact.mblais@gmail.com)
-
-# 
-
-💻 **Things I love**
-- Game Development <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-- Technology 💻
-- Coding ⌨
-- 3d modeling 🖌
+<h2 style="line-height: 1.5; margin: auto; font-family: 'Montserrat', sans-serif; font-size: 10vh; letter-spacing: 1vw; background: url('bgvideo.gif'); align-content: centre; background-size: fill; text-align: center; background-clip: text; -webkit-background-clip: text; -webkit-text-fill-color: transparent;">MICHAEL</h2>
+<h2 style="line-height: 1; margin: auto; font-family: 'Montserrat', sans-serif; font-size: 10vh; letter-spacing: 1vw; background: url('bgvideo.gif'); background-size: fill; text-align: center; background-clip: text; -webkit-background-clip: text; -webkit-text-fill-color: transparent;">BLAIS</h2>
 
 
-🛠 **Tech Stack**
-- Blender   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/2503px-Blender_logo_no_text.svg.png" width="20"> 
-- Rblx Studio   <img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/ROBLOX_Studio_icon.png" width="20"> 
-- Unreal Engine <img src="https://pngimage.net/wp-content/uploads/2018/06/unreal-engine-4-png-1.png" width="20"> 
-- Substance Painter <img src="https://i.imgur.com/Cpj00zQ.png" width="30"> 
-- Visual Studio <img src="https://1000logos.net/wp-content/uploads/2020/08/Visual-Studio-Logo.png" width="30"> 
+<link
+    rel="stylesheet"
+    href="https://fonts.googleapis.com/css?family=Montserrat:900"
+  />
+
+## 🌐 My Website
+<a href="https://www.mblais.dev"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+
+## 📅 Hobbies
+- Coding
+- 3d modeling
+- Networking
+- Enterprise servers
+- Culinary
+- Etc...
+
+## 💻 Current project
+- [Apex-Bank app](https://github.com/mblais13)
+
+#
+
+<p align="center">
+  <a href="mailto:michael@mblais.dev?subject=Michael%20Blais"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://discord.gg/Hejb485"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></img></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/mblais13"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 
 | <a href="https://mblais-portfolio.netlify.app"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mblais13&show_icons=true&include_all_commits=true&theme=github_dark&border_color=61dafb&hide_border=true" alt="MBlais's github stats" /></a> | <a href="https://mblais-portfolio.netlify.app"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mblais13&layout=compact&theme=github_dark&border_color=61dafb&hide_border=true" /></a> |
 | ------------- | ------------- |
+
 
 <div align="center">
     <h3 align="center">Show some ❤️ by starring some of my repositories!</h3>
