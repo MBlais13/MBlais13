@@ -1,7 +1,7 @@
 <a style="line-height: 1.5; margin: auto; font-family: 'Montserrat', sans-serif; font-size: 10vh; letter-spacing: 1vw; background: url('https://i.imgur.com/JR5EhTn.gif'); align-content: centre; background-size: fill; text-align: center; background-clip: text; -webkit-background-clip: text; -webkit-text-fill-color: transparent;">MICHAEL</h2>
 <a style="line-height: 1; margin: auto; font-family: 'Montserrat', sans-serif; font-size: 10vh; letter-spacing: 1vw; background: url('https://i.imgur.com/JR5EhTn.gif'); background-size: fill; text-align: center; background-clip: text; -webkit-background-clip: text; -webkit-text-fill-color: transparent;">BLAIS</h2>
 
-<h2 style="background: url('https://i.imgur.com/JR5EhTn.gif'); ">BLAIS</h2>
+<h2 style="line-height: 1; margin: auto; font-family: 'Montserrat', sans-serif; font-size: 10vh; letter-spacing: 1vw; background-size: fill; text-align: center; background-clip: text; ">BLAIS</h2>
 
 <link
     rel="stylesheet"
