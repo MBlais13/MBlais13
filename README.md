@@ -6,11 +6,8 @@
 <!-- <h2 style="line-height: 1.5; margin: auto; font-family: 'Montserrat', sans-serif; font-size: 10vh; letter-spacing: 1vw; background: url('https://i.imgur.com/JR5EhTn.gif'); align-content: centre; background-size: fill; text-align: center; background-clip: text; -webkit-background-clip: text; -webkit-text-fill-color: transparent;">MICHAEL</h2>
 <h2 style="line-height: 1; margin: auto; font-family: 'Montserrat', sans-serif; font-size: 10vh; letter-spacing: 1vw; background: url('https://i.imgur.com/JR5EhTn.gif'); background-size: fill; text-align: center; background-clip: text; -webkit-background-clip: text; -webkit-text-fill-color: transparent;">BLAIS</h2> -->
 
-<div><img src="https://i.imgur.com/JR5EhTn.gif" style="width: 100%;"/>
-<h2 style="font-family: 'Montserrat', sans-serif; font-size: 10vh; letter-spacing: 1vw;">Michael</h2>
-</div>
+<img src="background-video2.gif" alt="Michael Blais" width="100%" height="auto" />
 
-<h2></h2>
 <h2>Hello, I'm michael blais 👋</h2>
 
 
