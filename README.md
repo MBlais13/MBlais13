@@ -1,13 +1,19 @@
-<a style="line-height: 1.5; margin: auto; font-family: 'Montserrat', sans-serif; font-size: 10vh; letter-spacing: 1vw; background: url('https://i.imgur.com/JR5EhTn.gif'); align-content: centre; background-size: fill; text-align: center; background-clip: text; -webkit-background-clip: text; -webkit-text-fill-color: transparent;">MICHAEL</h2>
-<a style="line-height: 1; margin: auto; font-family: 'Montserrat', sans-serif; font-size: 10vh; letter-spacing: 1vw; background: url('https://i.imgur.com/JR5EhTn.gif'); background-size: fill; text-align: center; background-clip: text; -webkit-background-clip: text; -webkit-text-fill-color: transparent;">BLAIS</h2>
-
-
-<h2 style="line-height: 1; font-size: 10vh;">BLAIS</h2>
-
 <link
     rel="stylesheet"
     href="https://fonts.googleapis.com/css?family=Montserrat:900"
   />
+
+<!-- <h2 style="line-height: 1.5; margin: auto; font-family: 'Montserrat', sans-serif; font-size: 10vh; letter-spacing: 1vw; background: url('https://i.imgur.com/JR5EhTn.gif'); align-content: centre; background-size: fill; text-align: center; background-clip: text; -webkit-background-clip: text; -webkit-text-fill-color: transparent;">MICHAEL</h2>
+<h2 style="line-height: 1; margin: auto; font-family: 'Montserrat', sans-serif; font-size: 10vh; letter-spacing: 1vw; background: url('https://i.imgur.com/JR5EhTn.gif'); background-size: fill; text-align: center; background-clip: text; -webkit-background-clip: text; -webkit-text-fill-color: transparent;">BLAIS</h2> -->
+
+<div><img src="https://i.imgur.com/JR5EhTn.gif" style="width: 100%;"/>
+<h2 style="font-family: 'Montserrat', sans-serif; font-size: 10vh; letter-spacing: 1vw;">Michael</h2>
+</div>
+
+<h2></h2>
+<h2>Hello, I'm michael blais 👋</h2>
+
+
 
 ## 🌐 My Website
 <a href="https://www.mblais.dev"><img src="https://img.shields.io/badge/Portfolio Website-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
