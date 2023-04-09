@@ -25,7 +25,7 @@
 - Etc...
 
 ## 💻 Current project
-- [Apex-Bank app](https://github.com/mblais13)
+- [Personal Website](https://github.com/MBlais13/PersonalWebsite)
 
 #
 
