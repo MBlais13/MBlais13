@@ -8,7 +8,7 @@
 
 <img src="background-video2.gif" alt="Michael Blais" width="100%" height="auto" />
 
-<h2>Hello, I'm michael blais 👋</h2>
+<h2>Hello, I'm Michael Blais 👋</h2>
 
 
 
