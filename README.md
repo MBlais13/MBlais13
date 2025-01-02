@@ -25,8 +25,8 @@
 - UI/UX design
 
 ## 💻 Current project
-- [Personal Website](https://github.com/MBlais13/PersonalWebsite)
-
+- [Personal Website](https://github.com/MBlais13/portfolio-v2)
+- [St.Clair Course Notes](https://github.com/MBlais13/T861-Notes)
 #
 
 <p align="center">
