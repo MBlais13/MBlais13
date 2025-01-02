@@ -22,7 +22,7 @@
 - Networking
 - Enterprise servers
 - Culinary
-- Etc...
+- UI/UX design
 
 ## 💻 Current project
 - [Personal Website](https://github.com/MBlais13/PersonalWebsite)
@@ -35,10 +35,12 @@
   <a href="https://www.linkedin.com/in/mblais13"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-| <a href="https://mblais-portfolio.netlify.app"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mblais13&show_icons=true&include_all_commits=true&theme=github_dark&border_color=61dafb&hide_border=true" alt="MBlais's github stats" /></a> | <a href="https://mblais-portfolio.netlify.app"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mblais13&layout=compact&theme=github_dark&border_color=61dafb&hide_border=true" /></a> |
+| <a href="https://mblais.dev"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mblais13&show_icons=true&include_all_commits=true&theme=github_dark&border_color=61dafb&hide_border=true" alt="MBlais's github stats" /></a> | <a href="https://mblais.dev"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mblais13&layout=compact&theme=github_dark&border_color=61dafb&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 
+<!-- 
 <div align="center">
     <h3 align="center">Show some ❤️ by starring some of my repositories!</h3>
 </div>
+--!>
