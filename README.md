@@ -24,7 +24,7 @@
 - Culinary
 - UI/UX design
 
-## 💻 Current project
+## 💻 Current work
 - [Personal Website](https://github.com/MBlais13/portfolio-v2)
 - [St.Clair Course Notes](https://github.com/MBlais13/T861-Notes)
 #
